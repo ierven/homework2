@@ -5,14 +5,13 @@ body {
 }
 
 h1 {
-    size: 64px;
+    font-size: 64px;
     text-align: center;
 }
 
 h2 {
-    size: 30px;
-    text-shadow: #808080, blur(2px);
-    offset: 5px, 5px;
+    font-size: 30px;
+    text-shadow: 5px 5px 2px #808080;
 }
 
 p {
