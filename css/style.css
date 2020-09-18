@@ -1,4 +1,4 @@
-body {
+* {
     font: "Lucida Grande", sans-serif;
     color: #FFFFFF;
     background-color: #000000;
@@ -59,9 +59,10 @@ div {
     text-align: left;
 }
 
-footer p {
+footer {
     text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
+    background-color: #000000;
 }
 
